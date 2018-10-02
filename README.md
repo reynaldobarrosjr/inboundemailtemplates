@@ -1,7 +1,8 @@
 # inboundemailtemplates
 Template de emails para vendas
+
 Email de Acompanhamento
-_______________________
+-----------------------
 
 Depois de uma reunião
 
